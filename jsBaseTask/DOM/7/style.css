@@ -1,0 +1,27 @@
+/**/
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.wraper {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.container {
+    width: 30%;
+    text-align: center; 
+  }
+
+.square__block{
+  min-height: 55px;
+}
+
+.square{
+    height: 30px;
+    width: 30px;
+    background-color: rgb(175, 175, 253);
+    
+    margin: 0 auto;
+}
+
