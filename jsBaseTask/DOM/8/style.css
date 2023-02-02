@@ -1,0 +1,38 @@
+/**/
+html, body {margin: 0; height: 100%; overflow: hidden}
+
+.wraper {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+.container {
+    width: 20%;
+    text-align: center;
+  }
+
+.square__block{
+    min-height: 55px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.square{
+    height: 50px;
+    width: 50px;
+    background-color: red;
+    margin: 10px auto;
+    
+    
+}
+
+/*-------------------------*/
+
+.green{
+    background-color: green;
+}
+
+
+
