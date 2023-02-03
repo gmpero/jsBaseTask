@@ -1,0 +1,15 @@
+.number{
+    border: 1px solid;
+    width: 20px;
+    margin: 1px;
+    display: inline-block;
+    text-align: center;
+}
+
+.operand{
+    border: 1px solid;
+    width: 20px;
+    margin: 1px;
+    display: inline-block;
+    text-align: center;
+}
